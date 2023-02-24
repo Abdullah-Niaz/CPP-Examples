@@ -7,6 +7,6 @@ int main()
     int x, y;
     cout << "Enter the Values x & y Respectively: ";
     cin >> x >> y;
-    cout << "Sum of x & y  " << x + y << endl;
+    cout << "Sum of x & y:  " << x + y << endl;
     return 0;
 }
