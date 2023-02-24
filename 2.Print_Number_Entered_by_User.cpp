@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    // Take input from user and store it to variable
+    // Take input from user and store it to variable two variables
     int x, y;
     cout << "Enter the Values: ";
     cin >> x >> y;
