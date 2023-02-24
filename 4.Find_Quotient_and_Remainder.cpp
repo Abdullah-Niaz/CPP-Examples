@@ -15,7 +15,7 @@ int main()
     Quotient = Dividend / Divisor;
     Remainder = Dividend % Divisor;
 
-    cout << "Quoitent Value is " << Quotient << endl
-         << "Remainder Value is " << Remainder;
+    cout << "Quoitent Value is: " << Quotient << endl
+         << "Remainder Value is: " << Remainder;
     return 0;
 }
